@@ -1,3 +1,9 @@
+# local stuff
+in/Seuns_farm_complete_boundary2.*
+
+# Mac stuff
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
